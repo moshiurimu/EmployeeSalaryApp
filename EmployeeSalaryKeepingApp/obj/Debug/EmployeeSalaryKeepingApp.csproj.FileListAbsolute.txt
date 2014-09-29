@@ -1,0 +1,18 @@
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.csprojResolveAssemblyReference.cache
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.EmployeeSalaryUI.resources
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.csproj.GenerateResource.Cache
+F:\BASIS OOP ASP.NET 49 Batch\19 Sep 2014\Lesson 04 - Updated\Lesson 04 - Working with File\Code and File\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe.config
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.exe
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\bin\Debug\EmployeeSalaryKeepingApp.pdb
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.csprojResolveAssemblyReference.cache
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.EmployeeSalaryUI.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.Properties.Resources.resources
+F:\BASIS OOP ASP.NET 49 Batch\Home Works\EmployeeSalaryKeepingApp\EmployeeSalaryKeepingApp\obj\Debug\EmployeeSalaryKeepingApp.csproj.GenerateResource.Cache
